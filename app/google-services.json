@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1003931518690",
+    "firebase_url": "https://fir-setupkotlin-fbf7d-default-rtdb.firebaseio.com",
+    "project_id": "fir-setupkotlin-fbf7d",
+    "storage_bucket": "fir-setupkotlin-fbf7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003931518690:android:9d7b015221a5ed9c1940bb",
+        "android_client_info": {
+          "package_name": "com.example.firbase_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mm4BP64OLs-JftIJOyt4ROb6bJZo-yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003931518690:android:f249fb3c67b0affb1940bb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_connection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mm4BP64OLs-JftIJOyt4ROb6bJZo-yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
